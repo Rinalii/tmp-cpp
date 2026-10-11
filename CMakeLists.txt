@@ -34,3 +34,4 @@ endfunction()
 
 # --- Регистрируем задачи ---
 add_task(task_a_brackets)
+add_task(task_b_min_psp)
